@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000"
+    android:orientation="vertical">
+
+    <!--</org.xwalk.core.XWalkView>-->
+    <!--<org.xwalk.core.XWalkView-->
+    <!--android:id="@+id/xwalkWebView"-->
+    <!--android:orientation="vertical"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:background="#000000"-->
+    <!--/>-->
+
+</LinearLayout>
